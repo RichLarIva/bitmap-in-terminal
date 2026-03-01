@@ -7,4 +7,6 @@ add_executable(C_Version main.c
         args.c
         bmp.c
         bmp.h
-        args.h)
+        args.h
+        image.h
+        image.c)

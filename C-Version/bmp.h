@@ -11,11 +11,11 @@
 typedef struct
 {
     uint16_t bfType;
-    uint16_t bfSize;
+    uint32_t bfSize;
     uint16_t bfReserved1;
     uint16_t bfReserved2;
-    uint16_t bfOffBits;
-} BITMAPFILEHEADER;
+    uint32_t bfOffBits;
+} BMP_FILEHEADER;
 
 typedef struct
 {
@@ -30,7 +30,7 @@ typedef struct
     int32_t biYPelsPerMeter;
     uint32_t biClrUsed;
     uint32_t biClrImportant;
-} BITMAPINFOHEADER;
+} BMP_INFOHEADER;
 #pragma pack(pop)
 
 uint8_t *bmp_load(const char *path, int *width, int *height, int *channels);

@@ -15,8 +15,9 @@ uint8_t *bmp_load(const char *path, int *width, int *height, int *channels)
         return NULL;
     }
 
-    BITMAPFILEHEADER fileHeader;
-    BITMAPINFOHEADER infoHeader;
+    BMP_FILEHEADER fileHeader;
+    BMP_INFOHEADER infoHeader;
+
 
     fread(&fileHeader, sizeof(fileHeader), 1, f);
     fread(&infoHeader, sizeof(infoHeader), 1, f);
@@ -34,6 +35,8 @@ uint8_t *bmp_load(const char *path, int *width, int *height, int *channels)
 
     int rowSize = ((*width * *channels +3) & ~3);
     int dataSize = rowSize * (*height);
+
+
 
     uint8_t *data = malloc(dataSize);
     if (!data)
