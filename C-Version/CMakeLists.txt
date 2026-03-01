@@ -9,4 +9,8 @@ add_executable(C_Version main.c
         bmp.h
         args.h
         image.h
-        image.c)
+        image.c
+        thread.c
+        thread.h
+        render.c
+        render.h)
