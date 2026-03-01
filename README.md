@@ -12,9 +12,9 @@ dotnet run -- path/to/your/image.bmp
 
 ## Example outputs
 Here are some example outputs of bitmap images rendered in the terminal:
-![Example Output 1](example.png)
+![Example Output 1](Example.png)
 This is a simple example of a bitmap image rendered in the terminal. The program converts the image into a series of colored characters, allowing you to see the image directly in your terminal window.
-![Example Output 2](example2.png)
+![Example Output 2](Example2.png)
 This is another example of a bitmap image rendered in the terminal. However this was ran inside Visual Studio Code's integrated terminal.
 
 
