@@ -1,0 +1,14 @@
+G:\Gathub\bitmap-in-terminal\BmpTerminal\bin\Debug\net9.0\BmpTerminal.exe
+G:\Gathub\bitmap-in-terminal\BmpTerminal\bin\Debug\net9.0\BmpTerminal.deps.json
+G:\Gathub\bitmap-in-terminal\BmpTerminal\bin\Debug\net9.0\BmpTerminal.runtimeconfig.json
+G:\Gathub\bitmap-in-terminal\BmpTerminal\bin\Debug\net9.0\BmpTerminal.dll
+G:\Gathub\bitmap-in-terminal\BmpTerminal\bin\Debug\net9.0\BmpTerminal.pdb
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.GeneratedMSBuildEditorConfig.editorconfig
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.AssemblyInfoInputs.cache
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.AssemblyInfo.cs
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.csproj.CoreCompileInputs.cache
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.dll
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\refint\BmpTerminal.dll
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.pdb
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\BmpTerminal.genruntimeconfig.cache
+G:\Gathub\bitmap-in-terminal\BmpTerminal\obj\Debug\net9.0\ref\BmpTerminal.dll
