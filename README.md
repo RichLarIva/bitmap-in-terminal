@@ -1,4 +1,4 @@
-![![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # bitmap-in-terminal
  
 This is a simple C# program which renders a bitmap image in the terminal. It uses the `System.Drawing` library to load and process the image, and then outputs it using ANSI escape codes to display colors in the terminal.
